@@ -1,2 +1,2 @@
 # study-sync-ai
-Hackton project for students
+Hackthon project for students
